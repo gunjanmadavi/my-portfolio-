@@ -2,7 +2,7 @@
 CSE 1st Year Student | Aspiring Web Developer
 
 ### About Me
-I am a Computer Science student from a Tier-3 college, passionate about Web Development. Currently learning C and Python.
+I am a 1st year Computer Science student, passionate about Web Development. Currently learning C and Python.
 
 ### Skills
 - C Language
